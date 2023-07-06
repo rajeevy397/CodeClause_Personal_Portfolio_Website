@@ -17,7 +17,7 @@ function Testimonials() {
     {
       img: profilePic1,
       review:
-        "They provided expert guidance and support throughout the entire process of building our website, and the end result is truly amazing. we highly recommend their services to anyone in need of a top-notch website.",
+        'They provided expert guidance and support throughout the entire process of building our website, and the end result is truly amazing. we highly recommend their services to anyone in need of a top-notch website.',
       name: 'Er. Rajkishor Yadav',
     },
     {

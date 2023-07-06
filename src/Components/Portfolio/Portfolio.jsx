@@ -8,7 +8,7 @@ import MusicApp from '../../img/musicapp.png';
 import 'swiper/css';
 import { themeContext } from '../../Context';
 import { useContext } from 'react';
-import SwiperCore, { Autoplay } from 'swiper';
+import SwiperCore, { Autoplay } from 'swiper'; 
 
 const Portfolio = () => {
   SwiperCore.use([Autoplay]);

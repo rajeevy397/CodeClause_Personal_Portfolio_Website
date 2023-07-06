@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; 
 import './Services.css';
 import HeartEmoji from '../../img/heartemoji.png';
 import Glasses from '../../img/glasses.png';
@@ -13,7 +13,7 @@ const Services = () => {
   const transition = { duration: 1, type: 'spring' };
 
   const theme = useContext(themeContext);
-  const darkMode = theme.state.darkMode;
+  const darkMode = theme.state.darkMode; 
 
   return (
     <div className="services" id="Services">

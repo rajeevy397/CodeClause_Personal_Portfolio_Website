@@ -12,7 +12,7 @@ import { motion } from 'framer-motion';
 const Works = () => {
   // context
   const theme = useContext(themeContext);
-  const darkMode = theme.state.darkMode;
+  const darkMode = theme.state.darkMode; 
 
   return (
     <div className="works">
@@ -64,6 +64,6 @@ const Works = () => {
       </div>
     </div>
   );
-};
+}; 
 
 export default Works;
