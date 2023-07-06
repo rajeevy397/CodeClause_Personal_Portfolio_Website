@@ -4,6 +4,7 @@ import Github from '../../img/github.png';
 import LinkedIn from '../../img/linkedin.png';
 import Instagram from '../../img/instagram.png';
 import boy2 from '../../img/1.png';
+// import boy2 from '../../img/Rajeev.jpg';
 import Crown from '../../img/crown.png';
 import thumbup from '../../img/thumbup.png';
 import glassesimoji from '../../img/glassesimoji.png';
